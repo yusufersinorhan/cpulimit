@@ -1,4 +1,4 @@
-# cpulimit
+# CPULIMIT ile verimli node sahibi olmak.
 Birden fazla node kurulumunda ya da çok yüksek cpu tüketimini yapan mining işlemlerinde CPU kullanımını limitleme rehberi. 
 
 ### CPULIMIT PROGRAMI KURULUMU
@@ -57,9 +57,13 @@ cpulimit -e uzi-miner -l 40
 uzi-miner komutu altında çalışan ( resimde mavi dikdörtgen içine aldığım kısım ) programın cpu kullanımını %40 da limitler.
 
 
-Buradan istediğiniz limitleme yöntemini seçin uygulayın 
+Buradan istediğiniz limitleme yöntemini seçin uygulayın şöyle bir çıktı alacaksınız: 
 
+![image](https://github.com/yusufersinorhan/cpulimit/blob/main/cpulimit2.jpg)
 
+Sonrasında CTRL+A ve D ye basıp çıkın. 
 
+Tekrar htop komutu ile kontrol ettiğinizde cpu kullanımı düşürülmüş olacaktır. 
 
+Sağlıklı günler dilerim.
 
