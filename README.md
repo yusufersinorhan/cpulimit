@@ -65,5 +65,9 @@ Sonrasında CTRL+A ve D ye basıp çıkın.
 
 Tekrar htop komutu ile kontrol ettiğinizde cpu kullanımı düşürülmüş olacaktır. 
 
+
+UZUN DÖNEM SONUÇLARI:
+![image](https://github.com/yusufersinorhan/cpulimit/blob/main/cpulimit-sonrasi.jpg)
+
 Sağlıklı günler dilerim.
 
